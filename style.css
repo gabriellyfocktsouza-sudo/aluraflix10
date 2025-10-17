@@ -5,6 +5,35 @@ body {
     margin: 10px;
 
 
-
-
+   color: crimson;
+   font-size: 25;
 }
+   head{  
+   border-bottom:solid rgb(98, 0, 255); 
+   margin: 2px;
+   padding: 10px;
+   color: rgb(255, 0, 0);
+   }
+   .chamada{
+    background: rgb(229, 64, 97);
+    padding: bottom 80px;
+    padding: top 80px;
+    display: flex;
+    justify-content:center;
+   }
+   .chamada-texto{
+   margin: right 8%;
+   }
+   ing{
+   height:200px;
+   }
+   .categodria-videos{
+   display: flex;
+   overflow-x: auto;
+   gap: 15px;
+   }
+   .categoria{
+   padding: left 20px;
+   padding-right: 20px;
+   }
+   
